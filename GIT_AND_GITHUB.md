@@ -7,7 +7,7 @@ When working on a project as a Company we use the following *Git & GitHub* conve
 A typical project in *Hyper* has a `master` branch, which always is production ready
 and in some cases a `development` branch when using a **Staging** server
 
-## Whenever you work in a new feature/fix/refactoring... make a branch!
+## Branch out!
 
 Branches are awesome
 
