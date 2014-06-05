@@ -30,3 +30,9 @@ Asuming that you finish working on a pull request and all the test are green, th
 
 * To `master` always someone else should merge the pull request
 * To a development branch you can merge the pull request if you want
+
+## What do I do after merging?
+
+If you merged to `develop` or `master`, you push it to the staging or production server, respectively.
+The staging server should *always* be on the tip of `develop` and the production server should
+*always* be on the tip of `master`.
