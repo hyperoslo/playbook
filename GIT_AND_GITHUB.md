@@ -5,7 +5,7 @@ When working on a project as a Company we use the following *Git & GitHub* conve
 ## Basic setup
 
 A typical project in *Hyper* has a `master` branch, which always is production ready
-and in some cases a `development` branch when using a **Staging** server
+and in some cases a `develop` branch when using a **Staging** server
 
 ## Branch out!
 
