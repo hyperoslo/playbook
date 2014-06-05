@@ -1,6 +1,6 @@
-# Git & Github conventions
+# Git & GitHub conventions
 
-When working on a project as a Company we use the following *Git & Github* conventions
+When working on a project as a Company we use the following *Git & GitHub* conventions
 
 ## Basic setup
 
