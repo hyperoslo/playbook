@@ -21,12 +21,12 @@ refactor/make-it-pretty
 
 Use `--no-ff` when you merge to `master` or `develop`.
 
-## Do I make a pull request or no?
+## Do I make a pull request?
 
-* If is a quick fix: **no**
-* The rest of the cases is *highly* recommended
+It's okay to just push to `develop` or `master` if it's a quick fix and you really need
+it out the door. Otherwise, make it a pull request.
 
-## Who merges the pull request I just created?
+## Who merges the pull request?
 
 Let's say you're working on a pull request. The tests are green and you're ready
 to merge. Who does that? Basically anyone. Just not you.
