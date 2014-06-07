@@ -19,6 +19,8 @@ fix/make-it-work
 refactor/make-it-pretty
 ```
 
+Use `--no-ff` when you merge to `master` or `develop`.
+
 ## Do I make a pull request or no?
 
 * If is a quick fix: **no**
