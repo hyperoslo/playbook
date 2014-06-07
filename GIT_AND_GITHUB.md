@@ -28,10 +28,8 @@ Use `--no-ff` when you merge to `master` or `develop`.
 
 ## Who merges the pull request I just created?
 
-Asuming that you finish working on a pull request and all the test are green, then depending on the branch:
-
-* To `master` always someone else should merge the pull request
-* To a development branch you can merge the pull request if you want
+Let's say you're working on a pull request. The tests are green and you're ready
+to merge. Who does that? Basically anyone. Just not you.
 
 ## What do I do after merging?
 
