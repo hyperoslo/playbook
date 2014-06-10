@@ -1,8 +1,8 @@
-# Git & GitHub conventions
+# Git & GitHub Conventions
 
 When working on a project as a Company we use the following *Git & GitHub* conventions
 
-## Basic setup
+## Basic Setup
 
 A typical project in *Hyper* has a `master` branch, which always is production ready
 and in some cases a `develop` branch when using a **Staging** server
