@@ -4,7 +4,7 @@ When working on a project as a Company we use the following *Git & GitHub* conve
 
 ## Basic setup
 
-For applications, the `master` branch should be production-ready at all times.
+For applications, the `master` branch should be in production at all times.
 A `develop` branch may be used for staging purposes.
 
 For libraries (e.g. a Ruby gem), the `master` branch is deemed unstable.
