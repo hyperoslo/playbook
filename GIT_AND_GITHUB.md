@@ -7,6 +7,10 @@ When working on a project as a Company we use the following *Git & GitHub* conve
 A typical project in *Hyper* has a `master` branch, which always is production ready
 and in some cases a `develop` branch when using a **Staging** server
 
+## Commits
+
+Write commit messages in [imperative, present tense](http://stackoverflow.com/questions/3580013/should-i-use-past-or-present-tense-in-git-commit-messages).
+
 ## Branches
 
 ### Naming
