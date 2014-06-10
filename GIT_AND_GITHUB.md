@@ -1,6 +1,6 @@
 # Git & GitHub conventions
 
-These conventions apply to open-source, internal and client projects.
+These conventions apply to our open-source, internal and client projects.
 
 ## Basic setup
 
