@@ -15,9 +15,7 @@ Write commit messages in [imperative, present tense](http://stackoverflow.com/qu
 
 ### Naming
 
-Branches are awesome
-
-The naming convention is:
+Branches are awesome. We use `feature/`, `fix/` and `refactor/`:
 
 ```
 feature/my-feature
