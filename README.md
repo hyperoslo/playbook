@@ -2,11 +2,9 @@
 
 *"The bro code of hyper"* - @sindrenm
 
-## Topics to Treat
+## Index
 
-1. Code Style Conventions
-2. Git & Github Usage
-  - Pull Requests
-  - Code Reviews
+1. [Git & GitHub Conventions](https://github.com/hyperoslo/playbook/blob/master/GIT_AND_GITHUB.md)
+2. Code Style Conventions
 3. Heroku Deployment
 4. Text Editors
