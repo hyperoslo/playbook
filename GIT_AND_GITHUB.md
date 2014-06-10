@@ -9,7 +9,10 @@ and in some cases a `develop` branch when using a **Staging** server
 
 ## Commits
 
-Write commit messages in [imperative, present tense](http://stackoverflow.com/questions/3580013/should-i-use-past-or-present-tense-in-git-commit-messages).
+Write grammatically correct (i.e. start with a capital) commit messages in [imperative, present tense](http://stackoverflow.com/questions/3580013/should-i-use-past-or-present-tense-in-git-commit-messages).
+
+Prefer concise commits over gigantic ones. When writing a concise commit message
+is difficult, it may indicate too many unrelated changes.
 
 ## Branches
 
