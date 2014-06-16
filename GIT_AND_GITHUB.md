@@ -36,7 +36,8 @@ it out the door. Otherwise, make it a pull request.
 #### Who merges the pull request?
 
 Let's say you're working on a pull request. The tests are green and you're ready
-to merge. Who does that? Basically anyone. Just not you.
+to merge. Who does that? If you're working on a gem, anyone can merge it. If you're
+working on an application, prefer to have another member of your team merge it.
 
 #### Then what?
 
