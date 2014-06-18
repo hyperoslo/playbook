@@ -5,7 +5,7 @@ These conventions apply to our open-source, internal and client projects.
 ## Basic Setup
 
 A typical project in *Hyper* has a `master` branch, which always is production ready
-and in some cases a `develop` branch when using a **Staging** server
+and in some cases a `develop` branch when using a **Staging** server.
 
 ## Commits
 
