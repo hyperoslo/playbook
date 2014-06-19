@@ -61,7 +61,7 @@ Every day, the developers and designers of a team should meet amongst themselves
 [stand-up](http://www.mountaingoatsoftware.com/agile/scrum/daily-scrum/). Project managers and advisors may
 want to participate in this meeting and indeed are welcome to, but it is not required.
 
-We like to timebox standups to 15 minutes where everyone takes turns asking these questions of themselves:
+We like to timebox stand-ups to 15 minutes where everyone takes turns asking these questions of themselves:
 
 * What did you do yesterday?
 * What will you be doing today?
