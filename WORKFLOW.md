@@ -44,7 +44,7 @@ We like to timebox sprint reviews to 30 minutes with the following agenda:
 
 * What did we do last week?
 
-### Sprint retrospective
+#### Sprint retrospective
 
 At the end of each sprint, you should have a sprint retrospective meeting. This is where you review how you
 made the previous iteration of your product.
