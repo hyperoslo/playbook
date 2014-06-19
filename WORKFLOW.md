@@ -65,4 +65,4 @@ We like to timebox standups to 15 minutes where everyone takes turns asking thes
 
 * What did you do yesterday?
 * What will you be doing today?
-* Are there any impedients in your way?
+* Are there any impediments in your way?
