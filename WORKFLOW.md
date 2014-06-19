@@ -8,7 +8,7 @@ While we have adopted some choice artifacts from Scrum, our workflow is best des
 just "agile". Our projects vary in scope and duration and so we adopt our workflow accordingly,
 but there are some key artifacts that a project should always have.
 
-These are the project manager's responsibility to implement these, but if you notice that something
+It is the project manager's responsibility to implement these, but if you notice that something
 is missing you should step up and get it done.
 
 ### Backlog
