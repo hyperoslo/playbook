@@ -8,4 +8,5 @@
 2. Code Style Conventions
 3. Heroku Deployment
 4. Text Editors
-5. [Tools](https://github.com/hyperoslo/playbook/blob/master/TOOLS.md)
+5. [Workflow](https://github.com/hyperoslo/playbook/blob/master/WORKFLOW.md)
+6. [Tools](https://github.com/hyperoslo/playbook/blob/master/TOOLS.md)
