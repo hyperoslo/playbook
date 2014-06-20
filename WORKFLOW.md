@@ -5,7 +5,7 @@ These are the ways we work with the rest of the team.
 ## Agile
 
 While we have adopted some choice artifacts from Scrum, our workflow is best described as
-just "agile". Our projects vary in scope and duration and so we adopt our workflow accordingly,
+just “agile”. Our projects vary in scope and duration and so we adopt our workflow accordingly,
 but there are some key artifacts that a project should always have.
 
 It is the project manager's responsibility to implement these, but if you notice that something
@@ -13,7 +13,7 @@ is missing you should step up and get it done.
 
 ### Backlog
 
-You should keep a list of everything that remains to do. In Scrum, this list is called the "backlog". We like
+You should keep a list of everything that remains to do. In Scrum, this list is called the “backlog”. We like
 to format the items in the list as [user stories](http://en.wikipedia.org/wiki/User_story) in the interest of
 keepings things straightforward and not too technical for everyone else to follow.
 
