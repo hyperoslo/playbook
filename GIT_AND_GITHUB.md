@@ -4,8 +4,10 @@ These conventions apply to our open-source, internal and client projects.
 
 ## Basic Setup
 
-A typical project in *Hyper* has a `master` branch, which always is production ready
-and in some cases a `develop` branch when using a **Staging** server.
+For applications, the `master` branch should be in production at all times.
+A `develop` branch may be used for staging purposes.
+
+For libraries (e.g. a Ruby gem), the `master` branch is deemed unstable.
 
 ## Commits
 
@@ -47,5 +49,5 @@ If you're working on an application and you merged to `develop` or `master`, you
 the staging or production server, respectively. The staging server should *always* be on the
 tip of `develop` and the production server should *always* be on the tip of `master`.
 
-If you're working on a gem and you merged to `master`, you may want to push a new
-version. Or not.
+If you're working on a library (e.g. a Ruby gem) and you merged to `master`, you
+may want to push a new version. Or not.
