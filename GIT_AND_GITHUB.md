@@ -20,12 +20,13 @@ is difficult, it may indicate too many unrelated changes.
 
 ### Naming
 
-Branches are awesome. We use `feature/`, `fix/` and `refactor/`:
+Branches are awesome. We use `fix`, `refactor`, `improve` and `feature/`:
 
 ```
 feature/my-feature
 fix/make-it-work
-refactor/make-it-pretty
+improve/make-it-better
+refactor/make-it-awesome
 ```
 
 Use `--no-ff` when you merge to `master` or `develop`.
