@@ -8,9 +8,6 @@ While we have adopted some choice artifacts from Scrum, our workflow is best des
 just “agile”. Our projects vary in scope and duration and so we adopt our workflow accordingly,
 but there are some key artifacts that a project should always have.
 
-It is the project manager's responsibility to implement these, but if we notice that something
-is missing we step up and get it done.
-
 ### Backlog
 
 We keep a list of everything that remains to do. In Scrum, this list is called the “backlog”. We like
