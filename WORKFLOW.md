@@ -57,9 +57,8 @@ We like to timebox sprint retrospectives to 10 minutes with the following agenda
 
 ### Stand-ups
 
-Every day, the developers and designers of a team meet amongst themselves and have a
-[stand-up](http://www.mountaingoatsoftware.com/agile/scrum/daily-scrum/). Project managers and advisors may
-want to participate in this meeting and indeed are welcome to, but it is not required.
+Every day, everyone on the team should meet amongst themselves and have a
+[stand-up](http://www.mountaingoatsoftware.com/agile/scrum/daily-scrum/).
 
 We like to timebox stand-ups to 15 minutes where everyone takes turns asking these questions of themselves:
 
