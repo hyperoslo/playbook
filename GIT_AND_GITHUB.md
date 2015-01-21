@@ -20,7 +20,7 @@ is difficult, it may indicate too many unrelated changes.
 
 ### Naming
 
-Branches are awesome. We use `fix`, `refactor`, `improve` and `feature/`:
+Branches are awesome. We use `feature`, `fix`, `improve` and `refactor`:
 
 ```
 feature/my-feature
