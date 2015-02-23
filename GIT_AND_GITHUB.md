@@ -16,6 +16,8 @@ Write grammatically correct (i.e. start with a capital) commit messages in [impe
 Prefer concise commits over gigantic ones. When writing a concise commit message
 is difficult, it may indicate too many unrelated changes.
 
+Commit summaries shouldn't end with a dot. Descriptions should.
+
 ## Branches
 
 ### Naming
