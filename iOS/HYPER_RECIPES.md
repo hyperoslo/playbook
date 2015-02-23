@@ -10,7 +10,7 @@ We have a nice backend that will take care of your delicious recipes. You can ge
 
 https://github.com/hyperoslo/playbook/iOS/RECIPES_API.md
 
-When you are done, please link us to your project in Github.
+When you are done, please link us to your project in GitHub.
 
 Thanks and I hope you enjoy making some recipes.
 
