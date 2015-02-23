@@ -13,7 +13,7 @@ is count the days. All three months of them.
 
 ### I'm becoming a viking
 
-That's awesome! Now for the bad news. Imagine a rain forest. Now imagine cutting down all the trees
+That's great! Now for the bad news. Imagine a rain forest. Now imagine cutting down all the trees
 in that rain forest and churning them into paper. That's all the forms we have to fill and letters
 we have to send to get you here. But it's okay! We'll get through it! In fact we have sort of a lot
 of experience with hiring awesome people.
