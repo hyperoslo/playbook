@@ -8,7 +8,7 @@ We also enjoy making some pop corn and reading your code like a fantasy book of 
 
 We have a nice backend that will take care of your delicious recipes. You can get the documentation of the backend here:
 
-https://gist.github.com/NSElvis/6398c86ca4d171a8e18a
+https://github.com/hyperoslo/playbook/iOS/RECIPES_API.md
 
 Your project should make use of AFNetworking and Core Data, if you want you can use mogenerator to auto generate your Core Data classes, but please don't use things like RestKit or MagicalRecord.
 
