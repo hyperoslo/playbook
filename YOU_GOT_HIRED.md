@@ -1,4 +1,4 @@
-# Getting hired
+# You got hired!
 
 First things first; congratulations! You must be pretty awesome!
 
