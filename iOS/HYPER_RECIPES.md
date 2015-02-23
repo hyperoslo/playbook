@@ -2,7 +2,7 @@ Hi,
 
 Thanks for taking some time to talk with us, as we told you after the interview we usually have a fun small project called Hyper Recipes.
 
-The goal is to make an iOS app to see recipes it can be a list or a grid, just the listing part will do the job but you have other endpoints available in case youâ€™re feeling adventurous. You decide how it looks, but we appreciate good looking apps and thoughtful user experiences.
+The goal is to make an iOS app to see recipes it can be a list or a grid, just the listing part will do the job but you have other endpoints available in case you're feeling adventurous. You decide how it looks, but we appreciate good looking apps and thoughtful user experiences.
 
 We also enjoy making some pop corn and reading your code like a fantasy book of dragons and unicorns. We are crazy about code, please make it beautiful.
 
