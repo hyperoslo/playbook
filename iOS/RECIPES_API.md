@@ -40,11 +40,11 @@ Sample:
 
 Sample:
 
-```
+```json
 {
-  recipe: {
-    name: "New name",
-    difficulty: 1
+  "recipe": {
+    "name": "New name",
+    "difficulty": 1
   }
 }
 ```
@@ -64,11 +64,11 @@ You will get the image_url in the response.
 
 Sample:
 
-```
+```json
 {
-  recipe: {
-    name: "New name",
-    difficulty: 1
+  "recipe": {
+    "name": "New name",
+    "difficulty": 1
   }
 }
 ```
