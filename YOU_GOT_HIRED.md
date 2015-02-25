@@ -18,6 +18,13 @@ in that rain forest and churning them into paper. That's all the forms we have t
 we have to send to get you here. But it's okay! We'll get through it! In fact we have sort of a lot
 of experience with hiring awesome people.
 
+#### How do I get there?
+
+You'll want to get a flight to Oslo Airport Gardermoen (OSL) and catch a train into town. There's two;
+The Airport Express ("Flytoget" in Norwegian) or the regular train. The Airport Express is slightly faster
+and slightly more expensive. Either way you should get off at Oslo Sentralbanestasjon. Just let us know
+when you board the train and we'll meet you there!
+
 #### Where am I going to live?
 
 Traditionally vikings have preferred to live in caves and huts, but currently the preferred places to
