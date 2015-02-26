@@ -2,7 +2,7 @@ Hi,
 
 Thanks for your interest in working at Hyper. We are a bunch of passionate developers that enjoy making cool apps and having fun (not necessarily in that order). You'll love it here :)
 
-Even though you could try and convince us to hire you for your good humor, charm, or cool name, we really care about majestic code and beautiful user experiences. If you have any code that you would love to share, please send it our way. Big bonus if this is something that you still maintain and are extra proud of. But if that's not the case, don't sweat it, we have this cool assignment called Hyper Recipes that you'll probably finish in a few hours.
+Even though you could try and convince us to hire you for your good humor, charm, or cool name, we really care about majestic code. If you have any code that you would love to share, please send it our way. Big bonus if this is something that you still maintain and are extra proud of. But if that's not the case, don't sweat it, we have this cool assignment called Hyper Recipes that you'll probably finish in a few hours.
 
 The goal is to make an iOS app to see recipes it can be a list or a grid, just the listing part will do the job but you have other endpoints available in case you're feeling adventurous. You decide how it looks, but we appreciate good looking apps and thoughtful user experiences (get inspiration from the App Store).
 
