@@ -14,6 +14,6 @@ https://github.com/hyperoslo/playbook/iOS/RECIPES_API.md
 
 When you are done, please link us to your project in GitHub.
 
-Thanks and I hope you enjoy making some recipes.
+Thanks and we hope you enjoy making some recipes.
 
 PS: This might be useful https://github.com/hyperoslo/objective-c-style-guide
