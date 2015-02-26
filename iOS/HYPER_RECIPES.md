@@ -1,6 +1,6 @@
 Hi,
 
-Thanks for your interest in working at Hyper, we are a bunch of likeable guys that enjoy making cool apps and having fun. You'll love it here :)
+Thanks for your interest in working at Hyper. We are a bunch of passionate developers that enjoy making cool apps and having fun (not necessarily in that order). You'll love it here :)
 
 Even though you can easily convince us to hire you for your good humor, charm, or cool name, we still are really into beautiful code and *wonderful* apps. If you have any cool libraries in GitHub that you can show us, please send them to us, especially if it's one that you use on a daily basis. But if you don't have any, don't feel bad, we have a cool assignment that you'll probably finish in a few hours, the assignment is called Hyper Recipes.
 
