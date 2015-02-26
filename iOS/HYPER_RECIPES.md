@@ -1,6 +1,8 @@
 Hi,
 
-Thanks for taking some time to talk with us, as we told you after the interview we usually have a fun small project called Hyper Recipes.
+Thanks for your interest in working at Hyper, we are a bunch of likeable guys that enjoy making cool apps and having fun. You'll love it here :)
+
+Even thought you can easily convice us to hire your for your good humor, charm, or cool name, we still are really into beautiful code and *wonderful* apps. If you have any cool libraries in GitHub that you can show us please send them to us, specially if it's one that you use in a daily basis. But if you don't have any don't feel bad, we have a cool assignment that you'll probably finish in a few hours, the assignment is called Hyper Recipes.
 
 The goal is to make an iOS app to see recipes it can be a list or a grid, just the listing part will do the job but you have other endpoints available in case you're feeling adventurous. You decide how it looks, but we appreciate good looking apps and thoughtful user experiences (get inspiration from the App Store).
 
