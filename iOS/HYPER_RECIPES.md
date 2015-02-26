@@ -12,6 +12,6 @@ The API documentation for the backend that will store your delicious recipes can
 
 When you are ready to ship, please send us the link to your Hyper Recipes repository, and please remember to write concise and understandable commits.
 
-Thanks! We hope you'll enjoy making some recipes, and remember, don't feed the troll, he's on a diet.
+Thanks, we hope you'll enjoy making some recipes!
 
 PS: This might be useful https://github.com/hyperoslo/objective-c-style-guide
