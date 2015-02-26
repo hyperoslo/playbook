@@ -16,4 +16,4 @@ When you are done, please link us to your project in GitHub.
 
 Thanks and I hope you enjoy making some recipes.
 
-P.S.: This might be useful https://github.com/hyperoslo/objective-c-style-guide
+PS: This might be useful https://github.com/hyperoslo/objective-c-style-guide
