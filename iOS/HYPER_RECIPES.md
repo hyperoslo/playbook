@@ -2,7 +2,7 @@ Hi,
 
 Thanks for your interest in working at Hyper. We are a bunch of passionate developers that enjoy making cool apps and having fun (not necessarily in that order). You'll love it here :)
 
-Even though you could try and convince us to hire you for your good humor, charm, or cool name, we really care about majestic code. If you have any cool libraries in GitHub that you can show us, please send them to us, especially if it's one that you use on a daily basis. But if that's not the case, don't sweat it, we have this cool assignment called Hyper Recipes that you'll probably finish in a few hours.
+Even though you could try and convince us to hire you for your good humor, charm, or cool name, we really care about majestic code. If you have any cool projects in GitHub that you can show us, please send them to us, especially if it's one that you use on a daily basis. But if that's not the case, don't sweat it, we have this cool assignment called Hyper Recipes that you'll probably finish in a few hours.
 
 In Hyper Recipes, you'll build an application that will display recipes in either a list or a grid. Other endpoints are available if you are feeling adventurous. You decide the level of complexity, functionality and the look and feel of the application. We appreciate good looking apps and thoughtful user experiences, the App Store is a great source of inspiration.
 
