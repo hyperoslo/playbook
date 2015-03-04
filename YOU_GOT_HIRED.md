@@ -39,5 +39,6 @@ makes them quite hilarious.
 The best thing to do is make a list of apartments you like and run them by someone who speaks Norwegian
 (like, you know, us) just to make sure you aren't signing up for a nudist community or anything. We recommend
 getting in touch with a few landlords by telephone or e-mail prior to arriving here and arranging some viewings
-so you can see them for yourself. Your first week here is on us, and we'll get you a nice room at a hotel right
+so you can see them for yourself. We'll have a SIM card ready for you when you arrive so you don't drive
+yourself into bankruptcy. Your first week here is on us, and we'll get you a nice room at a hotel right
 by the office while you get your things in order.
