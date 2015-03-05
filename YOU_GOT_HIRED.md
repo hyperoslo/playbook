@@ -57,7 +57,7 @@ than three months after your arrival, though.
 If you're from a country outside the EU/EEA, you'll have to [apply for a residence permit as a skilled
 worker](http://www.udi.no/en/want-to-apply/work-immigration/) before you start working. It's a lot of
 paperwork, but thankfully the nice guys at The Norwegian Directorate of Immigration have prepared a
-nice [checklist](http://www.udi.no/en/checklists-container/work/checklist-for-skilled-worker-with-an-employer-in-norway/)
+[checklist](http://www.udi.no/en/checklists-container/work/checklist-for-skilled-worker-with-an-employer-in-norway/)
 for you so you don't forget anything. We'll work on this together. It could take a week or two to
 get everything in order, though, but you'll probably be busy finding an apartment anyway (otherwise
 we recommend watching [10 hours of badgers](https://www.youtube.com/watch?v=hGlyFc79BUE) the requisite
