@@ -59,6 +59,6 @@ worker](http://www.udi.no/en/want-to-apply/work-immigration/) before you start w
 paperwork, but thankfully the nice guys at The Norwegian Directorate of Immigration have prepared a
 [checklist](http://www.udi.no/en/checklists-container/work/checklist-for-skilled-worker-with-an-employer-in-norway/)
 for you so you don't forget anything. We'll work on this together. It could take a week or two to
-get everything in order, though, but you'll probably be busy finding an apartment anyway (otherwise
+get everything in order, but you'll probably be busy finding an apartment anyway (otherwise
 we recommend watching [10 hours of badgers](https://www.youtube.com/watch?v=hGlyFc79BUE) the requisite
 number of times).
