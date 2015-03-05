@@ -26,7 +26,7 @@ visa. This process varies depending on where you're from, but there's an excelle
 that will walk you through the specifics.
 
 Once your visa is in order (or if you don't need one), you'll want to get a flight to Oslo Airport Gardermoen
-(OSL) and catch a train into town. There's two; The Airport Express ("Flytoget" in Norwegian) or the regular
+(OSL) and catch a train into town. There's two: The Airport Express ("Flytoget" in Norwegian) or the regular
 train. The Airport Express is slightly faster and slightly more expensive. Either way you should get off at
 Oslo Sentralbanestasjon. Just let us know when you board the train and we'll meet you there!
 
