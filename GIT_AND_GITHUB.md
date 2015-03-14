@@ -4,10 +4,10 @@ These conventions apply to our open-source, internal and client projects.
 
 ## Basic Setup
 
-- [Create a GitHub account](github.com/join)
+- [Create a GitHub account](https://github.com/join)
 - [Download GitHub for Mac](https://mac.github.com/)
-- Login in GitHub for Mac
-- Go to the repository in GitHub and press "Clone to Desktop"
+- Open GitHub for Mac and log in
+- Visit the repository on GitHub and press "Clone to Desktop"
 
 ## Commits
 
