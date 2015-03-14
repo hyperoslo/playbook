@@ -4,12 +4,17 @@ These conventions apply to our open-source, internal and client projects.
 
 ## Basic Setup
 
+- [Create a GitHub account](github.com/join)
+- [Download GitHub for Mac](https://mac.github.com/)
+- Login in GitHub for Mac
+- Go to the repository in GitHub and press "Clone to Desktop"
+
+## Commits
+
 For applications, the `master` branch should be in production at all times.
 A `develop` branch may be used for staging purposes.
 
 For libraries (e.g. a Ruby gem), the `master` branch is deemed unstable.
-
-## Commits
 
 Write grammatically correct (i.e. start with a capital) commit messages in [imperative, present tense](http://stackoverflow.com/questions/3580013/should-i-use-past-or-present-tense-in-git-commit-messages).
 
