@@ -10,3 +10,4 @@
 2. [Code Style Conventions](https://github.com/hyperoslo/playbook/blob/master/CODE_STYLE.md)
 4. [Workflow](https://github.com/hyperoslo/playbook/blob/master/WORKFLOW.md)
 5. [Tools](https://github.com/hyperoslo/playbook/blob/master/TOOLS.md)
+5. [You Got Hired](https://github.com/hyperoslo/playbook/blob/master/YOU_GOT_HIRED.md)
