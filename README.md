@@ -1,6 +1,6 @@
 # Playbook
 
-![Banner](https://raw.githubusercontent.com/hyperoslo/playbook/feature/banner/assets/images/banner_v2.png)
+![Banner](https://raw.githubusercontent.com/hyperoslo/playbook/master/assets/images/banner_v2.png)
 
 > "The bro code of hyper" – [@sindrenm](http://github.com/sindrenm)
 
