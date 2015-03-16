@@ -2,7 +2,7 @@
 
 ![Banner](https://raw.githubusercontent.com/hyperoslo/playbook/master/assets/images/banner_v2.png)
 
-> "The bro code of hyper" – [@sindrenm](http://github.com/sindrenm)
+> "The bro code of Hyper" – [@sindrenm](http://github.com/sindrenm)
 
 ## Index
 
