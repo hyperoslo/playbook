@@ -45,8 +45,6 @@ it out the door. Otherwise, make it a pull request.
 
 #### Who merges the pull request?
 
-#### Who merges the pull request?
-
 Let's say you're working on a pull request. The tests are green and you're ready
 to merge. Who does that? If you're working on a library, any collaborator of the 
 project can merge it. If you're working on an app, another member of your team should 
