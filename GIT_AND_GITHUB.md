@@ -45,12 +45,12 @@ it out the door. Otherwise, make it a pull request.
 
 #### Who merges the pull request?
 
-You do! "Woa", you might say, "what's the point of making a pull request if I'm merging it
-myself?". Pull requests are less about quality assurance and more about collaborating and
-learning from each other for us, so as long as someone else has seen it and left their mark
-(commonly a random set of any two emoji, a single :+1: or a gif) you're good to go.
+Let's say you're working on a pull request. The tests are green and you're ready
+to merge. Who does that? If you're working on a library, any collaborator of the 
+project can merge it. If you're working on an app, another member of your team should 
+merge it.
 
-Once the pull request is accepted, delete the branch.
+Once the pull request is accepted the merger should delete the branch.
 
 #### Then what?
 
