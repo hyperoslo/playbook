@@ -45,12 +45,13 @@ it out the door. Otherwise, make it a pull request.
 
 #### Who merges the pull request?
 
-Let's say you're working on a pull request. The tests are green and you're ready
-to merge. Who does that? If you're working on a library, any collaborator of the 
-project can merge it. If you're working on an app, another member of your team should 
-merge it.
+Core contributors have the final say on what gets merged into their codebase,
+so they get to click the button. That could be you, but if you're working with
+someone else it should probably be them. The important thing is that someone else
+gets to look it over so we can learn from you, point out your silly mistakes and/or
+post the sufficient amount of gifs.
 
-Once the pull request is accepted the merger should delete the branch.
+Once the pull request is accepted, the person who merged should delete the branch.
 
 #### Then what?
 
