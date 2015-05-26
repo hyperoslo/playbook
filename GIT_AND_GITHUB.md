@@ -43,6 +43,8 @@ Use `--no-ff` when you merge to `master` or `develop`.
 It's okay to just push to `develop` or `master` if it's a quick fix and you really need
 it out the door. Otherwise, make it a pull request.
 
+Pull request descriptions should be concise and well written. The merger should be able to copy this description straight into the release notes instead of figuring out what changed or was fixed. 
+
 #### Who merges the pull request?
 
 Core contributors have the final say on what gets merged into their codebase,
