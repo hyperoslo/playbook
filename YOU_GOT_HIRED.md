@@ -42,3 +42,6 @@ inhabit are apartments.
 We'll put out an ad to rent a nice apartment near the office ahead of time and compile a list of options
 for you, then when you're here you can pick the ones you like and we'll go see them together. In the meantime,
 your stay is on us; there will be a room waiting for you at a nice hotel right by the office.
+
+Once we find an apartment, we'll cover the security deposit. We can also arrange to pay the rent out of your paycheck, since
+you might not have a bank account of your own just yet.
