@@ -39,15 +39,9 @@ Just let us know when you board the train and we'll meet you there!
 Traditionally vikings have preferred to live in caves and huts, but currently the preferred places to
 inhabit are apartments.
 
-You'll want to find one you like at [finn.no](http://www.finn.no/finn/realestate/lettings/result?areaId=20061),
-which is Norway's largest market of buying and selling things (including caves and huts and, more recently,
-apartments). Unfortunately the damn thing is only available in Norwegian, which really blows our mind. We
-recommend using Google Translate, which besides making the ads easier to understand also occasionally
-makes them quite hilarious.
+We'll put out an ad to rent a nice apartment near the office ahead of time and compile a list of options
+for you, then when you're here you can pick the ones you like and we'll go see them together. In the meantime,
+your stay is on us; there will be a room waiting for you at a nice hotel right by the office.
 
-The best thing to do is make a list of apartments you like and run them by someone who speaks Norwegian
-(like, you know, us) just to make sure you aren't signing up for a nudist community or anything. We recommend
-getting in touch with a few landlords by telephone or e-mail prior to arriving here and arranging some viewings
-so you can see them for yourself. We'll have a SIM card ready for you when you arrive so you don't drive
-yourself into bankruptcy. Your first week here is on us, and we'll get you a nice room at a hotel right
-by the office while you get your things in order.
+Once we find an apartment, we'll cover the security deposit. We can also arrange to pay the rent out of your
+paycheck, since you might not have a bank account of your own just yet.
