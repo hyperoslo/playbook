@@ -45,3 +45,5 @@ your stay is on us; there will be a room waiting for you at a nice hotel right b
 
 Once we find an apartment, we'll cover the security deposit. We can also arrange to pay the rent out of your
 paycheck, since you might not have a bank account of your own just yet.
+
+You can't wait to come so you want to start looking for some apartments? Let's do that then, here you'll find two great websites to look for your next home: [Finn](http://www.finn.no/finn/realestate/lettings/result?areaId=20061) and [Hybel](http://hybel.no/bolig-til-leie/annonser/oslo) once you have some you like, send us the links and we are going to talk with the landlord to arrange a visit as soon as you get here.
