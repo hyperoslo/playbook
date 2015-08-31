@@ -47,3 +47,17 @@ Once we find an apartment, we'll cover the security deposit. We can also arrange
 paycheck, since you might not have a bank account of your own just yet.
 
 You can't wait to come so you want to start looking for some apartments? Let's do that then, here you'll find two great websites to look for your next home: [Finn](http://www.finn.no/finn/realestate/lettings/result?areaId=20061) and [Hybel](http://hybel.no/bolig-til-leie/annonser/oslo) once you have some you like, send us the links and we are going to talk with the landlord to arrange a visit as soon as you get here.
+
+#### Bank account
+
+Opening a bank account may take quite long. Here are the documents you'll need:
+
+1. Valid international ID (i.e. Travel Passport). Residence permit of Schengen country may not be accepted as an ID.
+2. Job contract that lasts for next 5 months or more.
+3. Confirmation of D-number from Tax Office (Skatt øst)
+
+You may be asked for additional documents depending on your legal status and the bank. For example, in Nordea you need to provide a recommendation letter from your previous bank.
+
+The bank contract is to be sent by regular mail. After you sign the contract, you should send it back. Or just sign it at the bank office if you're in hurry.
+
+When choosing the right bank for you, pay attention to opening hours. Some banks may close at 15:00 which is inconvenient as you have to leave from work earlier. 
