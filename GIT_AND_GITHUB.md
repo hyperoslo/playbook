@@ -43,7 +43,9 @@ Use `--no-ff` when you merge to `master` or `develop`.
 It's okay to just push to `develop` or `master` if it's a quick fix and you really need
 it out the door. Otherwise, make it a pull request.
 
-Pull request descriptions should be concise and well written. The merger should be able to copy this description straight into the release notes instead of figuring out what changed or was fixed. 
+Pull request descriptions should be concise and well written. The merger should
+be able to copy this description straight into the release notes instead of
+figuring out what changed or was fixed. 
 
 #### Who merges the pull request?
 
@@ -54,6 +56,16 @@ gets to look it over so we can learn from you, point out your silly mistakes and
 post the sufficient amount of gifs.
 
 Once the pull request is accepted, the person who merged should delete the branch.
+
+#### I need the code in my last pull request in my next. What do?
+
+If your next pull request is intimately related to your last, consider to
+continue working on the one pull request instead of opening another.
+
+If you'd really rather open another, it's okay to base your next pull request
+from your unmerged branch. Request that it be merged to the main branch,
+though, and be sure to merge any changes you've made to its parent during
+its review.
 
 #### Then what?
 
