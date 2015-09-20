@@ -59,11 +59,11 @@ Once the pull request is accepted, the person who merged should delete the branc
 
 #### I need the code in my last pull request in my next. What do?
 
-If your next pull request is intimately related to your last, consider to
-continue working on the one pull request instead of opening another.
+If your next pull request is really that intimately related to your last,
+consider to continue working on it instead of opening another.
 
-If you'd really rather open another, it's okay to base your next pull request
-from your unmerged branch. Request that it be merged to the main branch,
+If it really makes sense to open another, it's okay to base your next pull
+request on your unmerged branch. Request that it be merged to the main branch,
 though, and be sure to merge any changes you've made to its parent during
 its review.
 
