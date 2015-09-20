@@ -51,3 +51,19 @@ them together. In the meantime, your stay is on us.
 Once we find an apartment, we'll cover the security deposit. We can also arrange to pay the
 rent out of your paycheck, since you might not have a bank account of your own just yet.
 
+### Where do I put my money?
+
+Not only do we get to have fun and build great things, but people are also
+giving us money for doing it! You'll want a place to put yours. Like your
+mattress. But preferably a bank account.
+
+To get an account with a Norwegian bank, you'll need a national ID number.
+To get that, you'll need to register with the Norwegian tax authority. It
+sounds complicated, but really it's pretty straightforward; we'll schedule
+an appointment with them together and bring your passport and employment
+contract. If you're from a country outside of the Schengen zone and had
+to apply for a residence permit, we'll bring that, too.
+
+You'll get your national ID number a few weeks later. When you do, the bank
+and you will be cool and they'll let you open an account with them. We'll
+go see them together, too.
