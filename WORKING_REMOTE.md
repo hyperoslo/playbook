@@ -7,6 +7,8 @@
  but for everyone working at Hyper.
  Successful collaboration requires effort from everyone.**
 
+## Why remote?
+
 For the last 200,000 years, our only option for working together has been
 being together. You could say we're used to it.
 
@@ -29,7 +31,7 @@ When you can stream yourself in 1080p from the top of Mount Everest and
 holograms are commonplace, we want to be great at it while the rest scramble
 to catch up.
 
-## Okay, how do?!
+## How to remote?
 
 Remote can be challenging because it requires new and different tools, and
 because some of those tools are still in their infancy. A tap on the shoulder
