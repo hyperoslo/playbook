@@ -56,11 +56,12 @@ If you're usually at the office but you're working from home today,
 let your team know so they don't go looking for you.
 
 If you're usually in New York but travelled to Beijing on a whim,
-let your team know so they know you're on a different schedule.
+let your team know so they know you're on a different schedule. And
+because that's awesome.
 
 #### Be easily available
 
-Create a [(permanent hangout)](#permanent-hangout) that people can reach
+Create a [permanent hangout](#permanent-hangout) that people can reach
 you on during the day, this makes you equally available as people sitting
 in a physical location at the office.
 
