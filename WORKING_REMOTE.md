@@ -71,8 +71,8 @@ communication barriers*
 
 To make a permanent hangout Follow these steps:
 
-1.  Schedule a meeting with your gmail account
-(preferably your private gmail account*). Be sure to create a hangout session
+1.  Schedule a meeting for the distant future\* with your gmail account
+(preferably your private gmail account\**). Be sure to create a hangout session
 that belongs to this meeting (should be on by default).
 
 2.  Enter the hangout and copy the hangout link.
@@ -81,7 +81,9 @@ that belongs to this meeting (should be on by default).
 you can customize the link so that it is easy to remember. (Example:
 bit.ly/ohenrik)
 
-\*Scheduling the meeting in a hyper account will make the hangout by default
+\* The Hangout will expire a few days after its meeting is held.
+
+\** Scheduling the meeting in a hyper account will make the hangout by default
 only allow access to people logged into an hyper.no email account.
 You can change this inside the hangout, but you have to do it every time you
 connect to the hangout, unless you use your private gmail account.
