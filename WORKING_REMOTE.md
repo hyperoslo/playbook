@@ -1,28 +1,47 @@
-# Working Remote
+# Working Remotely
 
 *The goal of this document is to improve collaboration between people who
  are not working in the same physical location.*
 
  **Important: This document is not only for those who are working remotely,
  but for everyone working at Hyper.
- Successfully collaboration requires effort from everyone.**
+ Successful collaboration requires effort from everyone.**
 
-We are all used to speaking with people who are not in the same
-physical place as us. Although we communicate a bitt less effectively over
-phone than when do in person it's usually not a big problem.
+For the last 200,000 years, our only option for working together has been
+being together. You could say we're used to it.
 
-However this communication challenge becomes much more apparent to us when
-we're trying to solve complex problems together.
+But the rules are changing; where we were previously limited by the reach of
+our voice, we can now synthesize it into radio signals that can carry it
+to Mars.
 
-There are many things that makes communicating with remote people more
-difficult. Let's call them communication barriers.
+It's probably not a good idea to work from Mars, though; it'd take anything
+you say between 4 and 24 minutes to reach someone on Earth, and you'd probably
+die.
 
-## Communication barriers
+It'd be pretty great to work from anywhere on Earth, however! For one thing we
+could draw upon the more than seven billion people in the world rather than
+just the few hundred thousand in Oslo to build great things with us, and for
+another we'd all have the opportunity to see the world while doing it.
 
-To collaborate more effectively we need to remove communication barriers.
-So let us discuss how to solve them and gather their solutions here
+Changing the way that people have been doing things for 200,000 years isn't
+something we can do overnight, but it is our ambition to change it in five.
+When you can stream yourself in 1080p from the top of Mount Everest and
+holograms are commonplace, we want to be great at it while the rest scramble
+to catch up.
 
-### Tips on how to remove collaboration barriers
+## Okay, how do?!
+
+Remote can be challenging because it requires new and different tools, and
+because some of those tools are still in their infancy. A tap on the shoulder
+is a message on Slack, a meeting is a Google Hangout and looking over
+someone's shoulder is a Kanban board.
+
+While we're changing our toolset for working together, communication barriers
+may arise. To be great at remote, it's important that we're open about these
+communication barriers and move fast to fix them. As we're doing that, we'll
+share what we've learned here.
+
+### Tips on removing collaboration barriers
 
 *This section will focus on how we can remove
 communication barriers by changing our behaviour*
@@ -97,9 +116,3 @@ bit.ly/ohenrik)
 only allow access to people logged into an hyper.no email account.
 You can change this inside the hangout, but you have to do it every time you
 connect to the hangout, unless you use your private gmail account.
-
-## Why we all need to think remote
-
-*There is newer just one person working remotely in a team.*
-
-We need to write more about the mentality towards remote collaboration at Hyper.
