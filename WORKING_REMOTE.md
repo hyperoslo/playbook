@@ -41,7 +41,7 @@ someone's shoulder is a Kanban board.
 While we're changing our toolset for working together, communication barriers
 may arise. To be great at remote, it's important that we're open about these
 communication barriers and move fast to fix them. As we're doing that, we'll
-share what we've learned here.
+share what we've learned here so we only have to do it once.
 
 ### Tips on removing collaboration barriers
 
