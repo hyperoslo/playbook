@@ -64,10 +64,11 @@ This is good because we have so many vacation days in Norway (yay!).
 A minimum of 4 week (counted as 4 * 5 workdays, so 20 work days in total).
 **At Hyper we are even luckier and have 5 vacation weeks.**
 
-So basically if you earn 110.000 Kr. in a year. Instead of receiving
-10.000 Kr. each month. 10.2% of that is saved for you by the employer
-and given back to you the following year as payment while you
-are on your vacation.
+Out of 120.000 kr. we get 107.760 kr. ( 120k * (1 - 0.102) ) paid
+out directly thought the hours we work. The rest is saved for us by
+the employer and given to us to be used while we are not working
+(on vacation). This is usually set to a fixed month, like every June
+the following year.
 
 So this law ensures that you are paid at least an average monthly income
 even though you take vacation during the year.
