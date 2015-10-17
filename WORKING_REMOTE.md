@@ -27,6 +27,16 @@ So let us discuss how to solve them and gather their solutions here
 *This section will focus on how we can remove
 communication barriers by changing our behaviour*
 
+#### Share where you are
+
+If you're in a different place than usual, tell everyone.
+
+If you're usually at the office but you're working from home today,
+let your team know so they don't go looking for you.
+
+If you're usually in New York but travelled to Beijing on a whim,
+let your team know so they know you're on a different schedule.
+
 #### Be easily available
 
 Create a [(permanent hangout)](#permanent-hangout) that people can reach
