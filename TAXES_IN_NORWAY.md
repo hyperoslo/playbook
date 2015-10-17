@@ -33,6 +33,7 @@ an automatic process strictly regulated by Norwegian accounting principles.
 ### Payroll tax
 
 **Applies to**: The Employer
+
 **Percentage**: Between 14.1% and 0%. 14.1% for Hyper since our
 employees are based in Oslo.
 
@@ -49,6 +50,7 @@ go into them here.
 ### Vacation money (Feriepenger)
 
 **Applies to**: Full time employees
+
 **Percentage**: minimum 10.2 % or more. or 12.5% for employees
 of age 60 or above.
 
@@ -71,9 +73,7 @@ So this law ensures that you are paid at least an average monthly income
 even though you take vacation during the year.
 
 Exactly how and when this money is paid out is solved differently
-by employers. Some pay a fixed amoutn each month, others pay vacation
-money put a fixed month regardless if your also working that month.
-Ask Ragnhild for more details on how we do this at Hyper.
+by employers. Ask Ragnhild for more details on how we do this at Hyper.
 
 #### The bad part
 
