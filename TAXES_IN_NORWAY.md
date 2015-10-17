@@ -47,6 +47,24 @@ earn working.
 There are more reasons for employers paying Payroll tax but i will not
 go into them here.
 
+#### Reduced tax in December and Juli
+
+The Norwegian tax system is based upon 10.5 months of tax. This does
+not mean that you pay less tax. It means that you pay a greater
+portion of your taxes 10 10 months of the year.
+
+The result is that your salary in July is without taxes and you only pay
+50% of the usual tax in December. Oh joy! For once, strange bureaucratic
+rules come in handy :)
+
+#### Tax reduction for foreigners
+
+(I don't know much about this. Can some one else explain this?)
+
+Basically the first 2 years when of working in Norway you get a tax
+reduction to help you get settled in (and get used to the high level of
+taxes here). Welcome to Norway! :)
+
 ### Vacation money (Feriepenger)
 
 **Applies to**: Full time employees
