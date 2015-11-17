@@ -63,7 +63,7 @@ As a reviewer, you should ideally be a core team member and have enough context
 to make a thorough review of the committed code, just by reading it. However, 
 there are times when the pull request is a bit on the large side, or it is 
 referencing existing code not found in the PR, or you for some other reason do 
-not have a good enough context to review enything else than code style and typos. 
+not have a good enough context to review anything else than code style and typos. 
 In these cases, we encourage you to physically (or virtually) approach the PR 
 submitter and go through the pull request together.
 
