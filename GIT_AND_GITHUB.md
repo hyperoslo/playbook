@@ -57,6 +57,21 @@ post the sufficient amount of gifs.
 
 Once the pull request is accepted, the person who merged should delete the branch.
 
+#### Reviewing pull requests
+
+As a reviewer, you should ideally be a core team member and have enough context
+to make a thorough review of the committed code, just by reading it. However, 
+there are times when the pull request is a bit on the large side, or it is 
+referencing existing code not found in the PR, or you for some other reason do 
+not have a good enough context to review anything else than code style and typos. 
+In these cases, we encourage you to physically (or virtually) approach the PR 
+submitter and go through the pull request together.
+
+Be warned, though: By doing this, you will both need to explain your thoughts and
+discuss other alternatives. Of course, this means you are putting yourself at risk 
+of sharing your knowledge and/or learning some new stuff, so please be careful not
+to end up being even more awesome than you are.
+
 #### I need the code in my last pull request in my next. What do?
 
 If your next pull request is really that intimately related to your last,
