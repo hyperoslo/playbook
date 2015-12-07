@@ -2,8 +2,6 @@
 
 ![Banner](https://raw.githubusercontent.com/hyperoslo/playbook/master/assets/images/banner_v2.png)
 
-> “The bro code of Hyper” – [@sindrenm](http://github.com/sindrenm)
-
 ## Index
 
 1. [Git & GitHub Conventions](https://github.com/hyperoslo/playbook/blob/master/GIT_AND_GITHUB.md)
