@@ -78,6 +78,18 @@ Hangouts, and anyone can join them from [rooms.hyper.no](http://rooms.hyper.no).
 No need to rely on someone to call you if you're remote, then; just join the
 meeting yourself!
 
+Once you're in a meeting, try to think about where you sit relative to microphones
+and cameras. Sit close to the microphone and camera. Properly hearing and seeing
+all the people in a meeting is a bigger deal than you'd think!
+
+Oh, and remove objects that might cause loud noises through the microphone. For
+example, metal rings and bracelets sound really painful if you acidentally scratch
+them against something close to the microphone.
+
+You can also consider having an all-virtual meeting, where everyone has their own
+camera and microphone. That's particularly good for discussing something visual
+like design changes over a shared screen.
+
 ### Tools that remove collaboration barriers
 
 *This section will focus on tools we can use to remove
