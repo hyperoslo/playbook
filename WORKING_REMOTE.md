@@ -59,6 +59,10 @@ If you're usually in New York but travelled to Beijing on a whim,
 let your team know so they know you're on a different schedule. And
 because that's awesome.
 
+We made a thing to make that really easy! You can see where everyone is
+and what they're doing on spot.hyper.no, and spot yourself with the `/spotme`
+command on Slack.
+
 #### Be easily available
 
 Create a [permanent hangout](#permanent-hangout) that people can reach
