@@ -71,23 +71,24 @@ where they can reach you for a quick talk.
 
 #### Meetings
 
-(Work in progress).
+It can be tough to meet with people who are remote without good tools. So we
+made really good tools. We hooked up every room with a TV to permanent Google
+Hangouts, and anyone can join them from [rooms.hyper.no](http://rooms.hyper.no).
 
-When in a meeting think about where you sit relative to microphones and
-cameras. Sit close to the microphone and camera. Properly hearing and seeing
-all the people in a meeting makes wonders for good communication.
+No need to rely on someone to call you if you're remote, then; just join the
+meeting yourself!
 
-Remove objects that might cause loud noises thought the microphone:
+Once you're in a meeting, try to think about where you sit relative to microphones
+and cameras. Sit close to the microphone and camera. Properly hearing and seeing
+all the people in a meeting is a bigger deal than you'd think!
 
-*   Metal bracelets creates a painful noise in the microphone
-when scratched against a macbook or the table for example.
+Oh, and remove objects that might cause loud noises through the microphone. For
+example, metal rings and bracelets sound really painful if you acidentally scratch
+them against something close to the microphone.
 
-Also consider having an all virtual meeting. When everybody have their own
-camera and microphone communication is often much better.
-This is specially true when you are discussing something visual like
-design changes over a shared screen.
-
-(more must be written about this.)
+You can also consider having an all-virtual meeting, where everyone has their own
+camera and microphone. That's particularly good for discussing something visual
+like design changes over a shared screen.
 
 ### Tools that remove collaboration barriers
 
