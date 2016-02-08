@@ -6,7 +6,7 @@ These are the ways we work with the rest of the team.
 
 While we have adopted some choice artifacts from Scrum, our workflow is best described as
 just “agile”. Our projects vary in scope and duration and so we adopt our workflow accordingly,
-but there are some key artifacts that a project should always have.
+but there are some key artifacts that we think a project should always have.
 
 ### Backlog
 
