@@ -11,7 +11,7 @@ house and live on the street by the first sign of trouble. Yay!
 
 Happy programmer:
 
-![Happy programmer](http://www.rdegges.com/images/2012/programming.gif)
+![Happy programmer](http://i.imgur.com/sdvL20O.gifv)
 
 ## Different types of taxes
 
@@ -103,7 +103,7 @@ money from your last employer the first year.
 
 ### VAT (MVA or moms in norwegian)
 
-So this is the annoying tax that applies to most gods and services that
+So this is the annoying tax that applies to most goods and services that
 you buy here in Norway. Its a whopping 25% for most things. Most
 countries have this tax so not much need to explain this i guess.
 
