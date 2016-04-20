@@ -1,13 +1,6 @@
-# Working Remotely
+# Working remotely
 
-*The goal of this document is to improve collaboration between people who
- are not working in the same physical location.*
-
- **Important: This document is not only for those who are working remotely,
- but for everyone working at Hyper.
- Successful collaboration requires effort from everyone.**
-
-## Why remote?
+## Why?
 
 For the last 200,000 years, our only option for working together has been
 being together. You could say we're used to it.
@@ -17,8 +10,8 @@ our voice, we can now synthesize it into radio signals that can carry it
 to Mars.
 
 It's probably not a good idea to work from Mars, though; it'd take anything
-you say between 4 and 24 minutes to reach someone on Earth, and you'd probably
-die.
+you say between 4 and 24 minutes to reach someone on Earth depending on our
+relative orbits around the Sun, and you'd probably die.
 
 It'd be pretty great to work from anywhere on Earth, however! For one thing we
 could draw upon the more than seven billion people in the world rather than
@@ -26,101 +19,51 @@ just the few hundred thousand in Oslo to build great things with us, and for
 another we'd all have the opportunity to see the world while doing it.
 
 Changing the way that people have been doing things for 200,000 years isn't
-something we can do overnight, but it is our ambition to change it in five.
-When you can stream yourself in 1080p from the top of Mount Everest and
-holograms are commonplace, we want to be great at it while the rest scramble
-to catch up.
+something we can do overnight, but we hope to change it in five. When you can
+stream yourself in 1080p from the top of Mount Everest and holograms are
+commonplace, we want to be great at it while the rest scramble to catch up.
 
-## How to remote?
+## How?
 
-Remote can be challenging because it requires new and different tools, and
-because some of those tools are still in their infancy. A tap on the shoulder
-is a message on Slack, a meeting is a Google Hangout and looking over
-someone's shoulder is a Kanban board.
+Working remotely can be challenging because it requires new and different tools,
+and because some of those tools are still pretty new. A tap on the shoulder is
+a message on Slack, a meeting is a Google Hangout and looking over someeone's
+shoulder is a Trello board.
 
-While we're changing our toolset for working together, communication barriers
-may arise. To be great at remote, it's important that we're open about these
-communication barriers and move fast to fix them. As we're doing that, we'll
-share what we've learned here so we only have to do it once.
+It will take time to change the way we work together, and we'll have problems on
+the way. But that's okay; if we don't have problems, we can't fix them.
 
-### Tips on removing collaboration barriers
-
-*This section will focus on how we can remove
-communication barriers by changing our behaviour*
+Let's share the problems we've had and how we fixed them here so we'll only
+have to do it once.
 
 #### Share where you are
 
-If you're in a different place than usual, tell everyone.
+We're used to seeing each other at the office, and so it's easy to liken
+someone not being in their seat to them being unavailable. So if you're in a
+different place than usual, make sure everyone knows!
 
-If you're usually at the office but you're working from home today,
-let your team know so they don't go looking for you.
+If you're usually at the office but you're working from home today, let your
+team know so they don't go looking for you.
 
-If you're usually in New York but travelled to Beijing on a whim,
-let your team know so they know you're on a different schedule. And
-because that's awesome.
+If you're usually in New York but travelled to Beijing on a whim, let your team
+know so they know you're on a different schedule. And because that's awesome.
 
-We made a thing to make that really easy! You can see where everyone is
-and what they're doing on [spot.hyper.no](http://spot.hyper.no), and spot
-yourself with the `/spotme` command on Slack.
+#### Be available
 
-#### Be easily available
+When you're remote, you should be as available as you are when you're at the
+office. Hell, you should be more available. And you can! Hang out in a video
+call where people can reach you. It'll be as if you're *next to everyone in
+the office at the same time*. Whoa, technology!
 
-Create a [permanent hangout](#permanent-hangout) that people can reach
-you on during the day, this makes you equally available as people sitting
-in a physical location at the office.
-
-Posting the bit.ly link in the project group chat at the beginning of the
-day is a great way of inviting people connect. This also reminds them of
-where they can reach you for a quick talk.
-
-#### Meetings
+#### Be good at meetings
 
 It can be tough to meet with people who are remote without good tools. So we
-made really good tools. We hooked up every room with a TV to permanent Google
-Hangouts, and anyone can join them from [rooms.hyper.no](http://rooms.hyper.no).
+made really good tools. We hooked up every room with a TV to Google Hangouts,
+and anyone can join them from [rooms.hyper.no](http://rooms.hyper.no).
 
 No need to rely on someone to call you if you're remote, then; just join the
 meeting yourself!
 
-Once you're in a meeting, try to think about where you sit relative to microphones
-and cameras. Sit close to the microphone and camera. Properly hearing and seeing
-all the people in a meeting is a bigger deal than you'd think!
-
-Oh, and remove objects that might cause loud noises through the microphone. For
-example, metal rings and bracelets sound really painful if you acidentally scratch
-them against something close to the microphone.
-
-You can also consider having an all-virtual meeting, where everyone has their own
-camera and microphone. That's particularly good for discussing something visual
-like design changes over a shared screen.
-
-### Tools that remove collaboration barriers
-
-*This section will focus on tools we can use to remove
-communication barriers*
-
-*   Effective use of Hangouts
-*   Permanent Hangout, with bit.ly link. [(read more bellow)](#permanent-hangout)
-*   Good quality microphones (and enough of them)
-*   Good quality cameras (and enough of them)
-
-#### Permanent-Hangout
-
-To make a permanent hangout Follow these steps:
-
-1.  Schedule a meeting for the distant future\* with your gmail account
-(preferably your private gmail account\**). Be sure to create a hangout session
-that belongs to this meeting (should be on by default).
-
-2.  Enter the hangout and copy the hangout link.
-
-3.  Go to bit.ly and create a new account or login. When you have an account
-you can customize the link so that it is easy to remember. (Example:
-bit.ly/ohenrik)
-
-\* The Hangout will expire a few days after its meeting is held.
-
-\** Scheduling the meeting in a hyper account will make the hangout by default
-only allow access to people logged into an hyper.no email account.
-You can change this inside the hangout, but you have to do it every time you
-connect to the hangout, unless you use your private gmail account.
+And once you're there, don't mute your microphone or turn off your camera; that
+makes it harder for you to participate, and it could even seem that you don't
+even want to.
