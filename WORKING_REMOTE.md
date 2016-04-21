@@ -20,7 +20,7 @@ another we'd all have the opportunity to see the world while doing it.
 
 Changing the way that people have been doing things for 200,000 years isn't
 something we can do overnight, but we hope to change it in five. When you can
-stream yourself in 1080p from the top of Mount Everest and holograms are
+stream yourself in 4K from the top of Mount Everest and holograms are
 commonplace, we want to be great at it while the rest scramble to catch up.
 
 ## How?
