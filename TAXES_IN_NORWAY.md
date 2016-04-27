@@ -59,11 +59,11 @@ rules come in handy :)
 
 #### Tax reduction for foreigners
 
-(I don't know much about this. Can some one else explain this?)
-
-Basically the first 2 years when of working in Norway you get a tax
-reduction to help you get settled in (and get used to the high level of
-taxes here). Welcome to Norway! :)
+Basically the first 2 years (or less if you start in the middle of a year)
+when of working in Norway you get a tax reduction (10 percent of gross income)
+to help you get settled in (and get used to the high level of taxes here).
+Here is good [article](http://www.skatteetaten.no/en/Person/Tax-Return/Find-item/3/3/7/how-to-change-the-standard-deduction-under-item-3.3.7-for-temporary-stay-in-norway/) explaining reduction application process.
+Welcome to Norway! :)
 
 ### Vacation money (Feriepenger)
 
