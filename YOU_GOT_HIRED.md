@@ -8,20 +8,20 @@ Well, that depends.
 
 ### I'm already a viking
 
-Just drop by the office, sign the contract and hang out! Then all that's left
-to do is count the days. All three months of them.
+Just drop by the office, sign the contract and hang out! Then all that's left to
+do is count the days. All three months of them.
 
 ### I'm becoming a viking
 
-That's great! Depending on where you're from, that ranges from the easiest
-thing in the world to a forest worth of paperwork.
+That's great! Depending on where you're from, that ranges from the easiest thing
+in the world to a forest worth of paperwork.
 
 #### I'm from a country in the Schengen zone
 
-Hurray! You're on the "easiest thing in the world" end of the scale. In fact
-you could just get on a plane and start working tomorrow. All you have to do
-is hook up with the police to tell them that you're here, and as long as you
-do that within the first three months they're totally cool with it.
+Hurray! You're on the “easiest thing in the world” end of the scale. In fact you
+could just get on a plane and start working tomorrow. All you have to do is hook
+up with the police to tell them that you're here, and as long as you do that
+within the first three months they're totally cool with it.
 
 #### I'm from a country outside the Schengen zone
 
@@ -32,24 +32,27 @@ permit together.
 ## I'm in Norway! Now what?
 
 You'll want to get a flight to Oslo Airport Gardermoen (OSL) and catch a train
-into town. There's two: The Airport Express ("Flytoget" in Norwegian) or the
-regular train. The Airport Express is slightly faster and slightly more expensive.
-Either way you should get off at [Oslo Sentralstasjon](https://www.google.no/maps/place/Oslo+Sentralstasjon/@59.911032,10.752408,17z).
+into town. There's two: The Airport Express (“Flytoget” in Norwegian) or the
+regular train. The Airport Express is slightly faster and slightly more
+expensive. Either way you should get off at [Oslo Central Station].
 
-Just let us know when you board the train and we'll meet you there for a
-proper hello!
+[Oslo Central Station]: https://www.google.no/maps/place/Oslo+Sentralstasjon/@59.911032,10.752408,17z
+
+Just let us know when you board the train and we'll meet you there for a proper
+hello!
 
 ### Where am I going to live?
 
-Traditionally vikings have preferred to live in caves and huts, but currently the preferred places to
-inhabit are houses.
+Traditionally vikings have preferred to live in caves and huts, but currently
+the preferred places to inhabit are houses.
 
-We'll put out an ad to rent a nice apartment near the office ahead of time and compile a list
-of options for you, then when you're here you can pick the ones you like and we'll go see
-them together. In the meantime, your stay is on us.
+We'll put out an ad to rent a nice apartment near the office ahead of time and
+compile a list of options for you, then when you're here you can pick the ones
+you like and we'll go see them together. In the meantime, your stay is on us.
 
-Once we find an apartment, we'll cover the security deposit. We can also arrange to pay the
-rent out of your paycheck, since you might not have a bank account of your own just yet.
+Once we find an apartment, we'll cover the security deposit. We can also arrange
+to pay the rent out of your paycheck, since you might not have a bank account of
+your own just yet.
 
 ### Where do I put my money?
 
@@ -57,13 +60,13 @@ Not only do we get to have fun and build great things, but people are also
 giving us money for doing it! You'll want a place to put yours. Like your
 mattress. But preferably a bank account.
 
-To get an account with a Norwegian bank, you'll need a national ID number.
-To get that, you'll need to register with the Norwegian tax authority. It
-sounds complicated, but really it's pretty straightforward; we'll schedule
-an appointment with them together and bring your passport and employment
-contract. If you're from a country outside of the Schengen zone and had
-to apply for a residence permit, we'll bring that, too.
+To get an account with a Norwegian bank, you'll need a national ID number. To
+get that, you'll need to register with the Norwegian tax authority. It sounds
+complicated, but really it's pretty straightforward; we'll schedule an
+appointment with them together and bring your passport and employment contract.
+If you're from a country outside of the Schengen zone and had to apply for a
+residence permit, we'll bring that, too.
 
-You'll get your national ID number a few weeks later. When you do, the bank
-and you will be cool and they'll let you open an account with them. We'll
-go see them together, too.
+You'll get your national ID number a few weeks later. When you do, the bank and
+you will be cool and they'll let you open an account with them. We'll go see
+them together, too.
