@@ -11,7 +11,7 @@ house and live on the street by the first sign of trouble. Yay!
 
 Happy programmer:
 
-![Happy programmer](http://i.imgur.com/sdvL20O.gifv)
+![Happy programmer](http://i.imgur.com/sdvL20O.gif)
 
 ## Different types of taxes
 
