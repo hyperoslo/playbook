@@ -78,7 +78,7 @@ and discuss other alternatives. Of course, this means you are putting yourself
 at risk of sharing your knowledge and/or learning some new stuff, so please be
 careful not to end up being even more awesome than you are.
 
-#### I need the code in my last pull request in my next. What do?
+#### My pull request depends on another pending pull request. What do I do?
 
 If your next pull request is really that intimately related to your last,
 consider to continue working on it instead of opening another.
