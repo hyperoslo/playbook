@@ -61,7 +61,7 @@ else gets to look it over so we can learn from you, point out your silly
 mistakes and/or post the sufficient amount of GIFs.
 
 Once the pull request is accepted, the person who merged it should also delete
-the branch, given sufficient privileges.
+the branch.
 
 #### Reviewing pull requests
 
