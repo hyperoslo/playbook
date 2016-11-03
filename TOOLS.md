@@ -1,23 +1,16 @@
 # Tools
 
-Here are some tools that we like. You don't have to use them, but you might
-wanna give them a go if you haven't already tried them.
+These are tools that we like. You don't have to use them, but you probably should.
 
 ## Label
 
-We use [label] to label the gems in our Gemfiles for Ruby projects.
-
-[label]: https://github.com/jgorset/label
+We use [label](https://github.com/jgorset/label) to label the gems in our Gemfiles.
 
 ## Heroku
 
-We use [heroku-deploy] for deployment to Heroku.
+We use [heroku-deploy](https://github.com/hyperoslo/heroku-deploy) as the best way to send our latest version to Heroku.
 
-[heroku-deploy]: https://github.com/hyperoslo/heroku-deploy
+## Direnv
 
-## direnv
-
-We often configure our apps with environment variables. To keep them local to
-those specific apps and not clutter up our entire environment we use [direnv].
-
-[direnv]: https://github.com/zimbatm/direnv/
+We configure our Ruby on Rails applications with environment variables. A lot of environment variables. We use
+[direnv](https://github.com/zimbatm/direnv/) to keep them in check.
