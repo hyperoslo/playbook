@@ -1,30 +1,67 @@
 # Workflow
 
-These are the ways we work with the rest of the team.
+It's hard to make great products. It's hard because there are a million choices
+along the way, and because it never really ends. In a word, it's uncertain.
+
+There are two ways to deal with that; to control it, or to accept it.
+
+The natural thing to do is to control it, and it works really well if you can
+predict the future. Otherwise it is futile, and you should not try.
+
+The other way is to accept that it is uncertain and deal with it. That is to
+accept that things will change along the way, and to make it as painless as
+possible when they do.
+
+That's called "agile", and that's what we choose to do.
 
 ## Agile
 
-While we have adopted some choice artifacts from Scrum, our workflow is best described as
-just “agile”. Our projects vary in scope and duration and so we adopt our workflow accordingly,
-but there are some key artifacts that we think a project should always have.
+> _Individuals and interactions_ over processes and tools
+> _Working software_ over comprehensive documentation
+> _Customer collaboration_ over contract negotiation
+> _Responding to change_ over following a plan
+>
+> That is, while there is value in the items on the right, we value the items
+> on the left more.
+
+- [Agile Manifesto][http://agilemanifesto.org/]
+
+Our products vary in complexity and duration and so our workflow varies equally,
+but there are some things that we always do:
+
+### Stories
+
+We keep things simple so everyone can contribute, and that starts with
+explaining things simply. When we decide what we're building, we describe it in
+short stories that explain _who_, _what_ and _why_.
+
+Good:
+
+* As a _visitor_, I want to _log in with Facebook_ so that _people can see who
+  I am_.
+
+Bad:
+
+* Implement Facebook Connect with the JavaScript SDK.
+
+Further reading on the making of good user stories:
+
+* [User Stories Applied][https://www.amazon.com/User-Stories-Applied-Software-Development/dp/0321205685]
 
 ### Backlog
 
-We keep a list of everything that remains to do. In Scrum, this list is called the “backlog”. We like
-to format the items in the list as [user stories](http://en.wikipedia.org/wiki/User_story) in the interest of
-keepings things straightforward and not too technical for everyone else to follow.
+We keep a list of the stories that we should do, and we call it the _backlog_.
 
 ### Sprints
 
-We organize the backlog in [sprints]('http://en.wikipedia.org/wiki/Scrum_(software_development)#Sprint').
-We like for our sprints to last one week each, as our projects seldom span for more than a few months and
-commonly much less.
+Every week, we select the most important stories from the backlog to work on. We
+call that a _sprint_.
 
 #### Sprint planning
 
-At the beginning of each sprint, we have a sprint planning meeting. This is where we plan the next
-iteration of your product. At the end of the meeting, the team should have committed to a week's worth of
-user stories to implement.
+At the beginning of each week, we get together to plan a new sprint. At the end
+of the meeting, the team should have committed to a week's worth of user stories
+to complete.
 
 We like to timebox sprint plannings to 30 minutes with the following agenda:
 
@@ -32,10 +69,10 @@ We like to timebox sprint plannings to 30 minutes with the following agenda:
 
 #### Sprint review
 
-At the end of each sprint, we have a sprint review meeting. This is where we review the previous
-iteration of your product. At the end of the meeting, everyone should be agreed that the user stories were
-implemented satisfactorily. The stories that are considered complete will be deployed, and the ones that
-aren't are moved back into the backlog.
+At the end of each week, we get together to review the sprint that we had and
+that the stories in it are in fact complete. At the end of the meeting, the
+stories that were completed are deployed, and the ones that aren't go back at
+the top of the backlog.
 
 We like to timebox sprint reviews to 30 minutes with the following agenda:
 
@@ -43,22 +80,24 @@ We like to timebox sprint reviews to 30 minutes with the following agenda:
 
 #### Sprint retrospective
 
-At the end of each sprint, we have a sprint retrospective meeting. This is where we review how we
-made the previous iteration of our product.
+At the end of each week, we get together to talk about how we worked. This is
+where we get better.
 
-We like to timebox sprint retrospectives to 10 minutes with the following agenda:
+We like to timebox sprint retrospectives to 15 minutes with the following
+agenda:
 
 * What should we start doing?
 * What should we stop doing?
 * What should we continue doing?
 
-### Stand-ups
+### Stand-up
 
-Every day, everyone on the team should meet amongst themselves and have a
-[stand-up](http://www.mountaingoatsoftware.com/agile/scrum/daily-scrum/).
+Every day, the team should tell each other what they're doing. We call that a
+_stand-up_.
 
-We like to timebox stand-ups to 15 minutes where everyone takes turns asking these questions of themselves:
+We like to timebox stand-ups to 10 minutes where everyone takes turns asking
+these questions of themselves:
 
-* What did you do yesterday?
-* What will you be doing today?
-* Are there any impediments in your way?
+* What did I do yesterday?
+* What will I be doing today?
+* Are there any impediments in my way?
