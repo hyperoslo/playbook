@@ -3,6 +3,7 @@
 * [Ruby](https://github.com/bbatsov/ruby-style-guide)
 * [Objective-C](https://github.com/hyperoslo/objective-c-style-guide)
 * [JavaScript](https://github.com/hyperoslo/eslint-config)
+* [Kotlin](https://github.com/hyperoslo/android-playbook/blob/master/kotlin-code-style.md)
 
 ## Stylus
 
